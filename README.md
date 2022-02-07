@@ -28,5 +28,11 @@ https://user-images.githubusercontent.com/37889335/152729027-49877722-3f9e-44ce-
 
 https://user-images.githubusercontent.com/37889335/152729552-b30a905c-dd27-48e6-9f55-5c54893107f3.mp4
 
+## POST, PUT, and DELETE routes for categories in Insomnia
+
+https://user-images.githubusercontent.com/37889335/152730769-a4e62c5c-0359-42b6-ae9a-e07d568adf64.mp4
+
+
+
 
 
